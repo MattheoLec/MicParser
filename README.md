@@ -12,12 +12,12 @@ Take the application root directory as an argument, and saves the extracted meth
 
 1. Clone this repository:
    ```shell
-   git clone https://github.com/yourusername/javamethodextractor.git
+   git clone https://github.com/MattheoLec/MicParser.git
    ```
 
 2. Navigate to the project directory:
    ```shell
-   cd javamethodextractor
+   cd MicParser
    ```
 
 3. Run the script:
